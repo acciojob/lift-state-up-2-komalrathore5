@@ -1,1 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.parent {
+    padding: 1rem 2rem;
+    background-color: greenyellow;
+}
+
+h1, h2{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.child {
+    padding: 1rem;
+    background-color: brown;
+}
+
+input{
+    padding: 0.5rem;
+}
